@@ -1,7 +1,9 @@
 # Minerva
 
 Minerva is a chat-bot system that is designed to act as a Northwestern academic advisor, although it can have conversations about any topic. Minerva learns a representation of a user comprised of their frequently discussed topics and domains that they have insider knowledge of to more effective communicate with users.
-
+Team:
+@kmcushing
+@Antebe
 ## Setup
 
 Create a local virtual environment with Python 3.10 (can be done by running `python3.10 -m venv [your-venv-name]`). Activate your virtual environment by running `source [your-venv-name]/bin/activate` and install the requirements from `requirements.txt` by running `pip install -r requirements.txt`. Define the following environment variables however you like \(we recommend writing these to a file named `.envrc` with each variable and value prefaced by `export` so that you can define them by running this file each time you start a new terminal session\):
